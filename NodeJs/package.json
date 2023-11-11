@@ -1,0 +1,15 @@
+{
+  "name": "test.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "Nodemon server.js"
+  },
+  "author": "Othneil Victory",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
